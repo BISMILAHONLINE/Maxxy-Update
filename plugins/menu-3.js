@@ -19,7 +19,7 @@ Hai, %name! %ucapan
 *Fitur:* %totalfeatures command
 
 %readmore
-*Support me:* _https://lynk.id/kahfi.xd_
+*Support me:* _https://linktr.ee/kannachanv1_
 *Note:*
 _Jika Respon Tidak Muncul Kemungkinan Terjadi Error_
 `.trimStart(),
