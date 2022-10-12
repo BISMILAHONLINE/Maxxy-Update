@@ -441,7 +441,7 @@ global.htjava = '⫹⫺'
 global.stickpack = '.'
 global.stickauth = `☂︎ Swift Kawai 乂 Siesta-Botz\n⫹⫺ 𝐖𝐡𝐚𝐭𝐬𝐚𝐩𝐩\nwa.me/${global.nomorbot}`
 global.packname = 'Siesta - Multi Device'
-global.author = 'Swift Kawai 乂 Swift Kawai'
+global.author = 'Siesta Md 乂 Swift Kawai'
 global.multiplier = 10
 
 /*Pesan*/
