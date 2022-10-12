@@ -10,9 +10,9 @@ let anu = `Hallo mypren 👋
 ⟩» *Kalau kakak mau jadi bot silahkan jasa run aja kak*
           
 ━━━〔 ıll *HARGA* llı 〕━━ꕥ
-⬡ *1 BULAN* 15.000
-⬡ *2 BULAN:* 25.000
-⬡ *PERMANEN:* 30.000
+⬡ *1 BULAN* 5.000
+⬡ *2 BULAN:* 7.000
+⬡ *PERMANEN:* 10.000
 ┗━━━━━━━━━━━━━━━━━━ꕥ
 ┏━━━〔 ıll *PAYMENT* llı 〕━━ꕥ
 ⬡ *DANA:* ${dana}
