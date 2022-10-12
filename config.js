@@ -4,18 +4,18 @@ import { fileURLToPath } from 'url'
 import fs from 'fs'
 import moment from 'moment-timezone'
 
-/*Oᴡɴᴇʀ number*/
+/*Swift number*/
 global.owner = [
-  ['6285380166282', '️One', true],
-  ['6285380166282', '️Two', true],
-  ['6285380166282', '️Three', true],
-  ['6285380166282', '️Four', true],
-  ['6285380166282', '️Five', true],
-  ['6285380166282', '️Six', true],
-  ['6285380166282', '️Seven', true],
-  ['6285380166282', '️Eight', true],
-  ['6285380166282', '️Nine', true],
-  ['6285380166282', '️Teen', true]
+  ['6288980870067', '️One', true],
+  ['6288980870067', '️Two', true],
+  ['6288980870067', '️Three', true],
+  ['6288980870067', '️Four', true],
+  ['6288980870067', '️Five', true],
+  ['6288980870067', '️Six', true],
+  ['6288980870067', '️Seven', true],
+  ['6288980870067', '️Eight', true],
+  ['6288980870067', '️Nine', true],
+  ['6288980870067', '️Teen', true]
 ]
 global.mods = []
 global.prems = []
@@ -89,24 +89,24 @@ global.xckey = '7iyNa0qA'
 */
 
 /*Number*/
-global.nomorbot = '6285295374964'
-global.nomorown = '6285380166282'
-global.namebot = '𝙔𝙩 𝙈𝙖𝙭𝙭𝙮 𝘽𝙤𝙩𝙯'
-global.nameown = '「 Oᴡɴᴇʀ 」'
+global.nomorbot = '6283112831554'
+global.nomorown = '6288980870067'
+global.namebot = 'Siesta - Multi Device'
+global.nameown = '「 Swift Kawai😍 」'
 
 /*Watermark*/
-global.wm = '                「 𝙔𝙩 𝙈𝙖𝙭𝙭𝙮 𝘽𝙤𝙩𝙯 あ⁩ 」'
-global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘օառɛʀ˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
-global.wm3 = '⫹⫺ 𝙔𝙩 𝙈𝙖𝙭𝙭𝙮 𝘽𝙤𝙩𝙯'
+global.wm = '                「 Siesta - Multi Device あ⁩ 」'
+global.wm2 = '꒷︶꒷꒥꒷ Swift Kawai‧˚꒷︶꒷꒥꒷'
+global.wm3 = '⫹⫺ Siesta - Multi Device'
 global.botdate = `⫹⫺ Date :  ${moment.tz('Asia/Jakarta').format('DD/MM/YY')}`
 global.bottime = `𝗧 𝗜 𝗠 𝗘 : ${moment.tz('Asia/Jakarta').format('HH:mm:ss')}`
 global.titlebot = `⫹⫺ Time Sever : ${moment.tz('Asia/Jakarta').format('HH:mm:ss')}\n⫹⫺ Date Server :  ${moment.tz('Asia/Jakarta').format('DD/MM/YY')}`
 
 /*Thumbnail*/
-global.thumb = 'https://i.ibb.co/ccY2Q0k/20220429-191026.jpg'
-global.imagebot = 'https://telegra.ph/file/793b6accf3758f092742a.jpg'
+global.thumb = 'https://i.ibb.co/pvcgg62/images-61.jpg'
+global.imagebot = 'https://telegra.ph/file/28e14a4d681382c56fad1.jpg'
 global.giflogo = 'https://telegra.ph/file/a46ab7fa39338b1f54d5a.mp4'
-global.thumbs = ['https://i.ibb.co/ccY2Q0k/20220429-191026.jpg','https://telegra.ph/file/f87047ec6e5f0d4a9ea91.jpg','https://telegra.ph/file/88edbb01051b397574def.jpg','https://telegra.ph/file/7957630a57078c5ec0400.jpg']
+global.thumbs = ['https://i.ibb.co/pvcgg62/images-61.jpg','https://i.ibb.co/pvcgg62/images-61.jpg','https://i.ibb.co/pvcgg62/images-61.jpg','https://i.ibb.co/pvcgg62/images-61.jpg']
 global.fla='https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=sketch-name&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&fillTextType=1&fillTextPattern=Warning!&text='
 global.flaaa = [
 'https://flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=water-logo&script=water-logo&fontsize=90&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&fillTextColor=%23000&shadowGlowColor=%23000&backgroundColor=%23000&text=',
@@ -392,13 +392,13 @@ global.hwaifu = ['https://i.pinimg.com/originals/ed/34/f8/ed34f88af161e6278993e1
 'https://i.pinimg.com/originals/80/4f/1a/804f1a05f9996c96a2d492b4854b7fd5.jpg']
 
 /*Link*/
-global.sig = 'https://www.instagram.com/kahfiofc0'
-global.sgh = 'https://www.github.com/Maxxy-Md'
-global.sgc = 'https://chat.whatsapp.com/I0prmYcZhKrCye0kiclzyt'
+global.sig = 'https://www.instagram.com/swiftkawai'
+global.sgh = 'https://www.github.com/XyzenzKannaV1'
+global.sgc = 'https://chat.whatsapp.com/KbgGdT1cV3rD5JzJDZryis'
 global.sdc = ''
-global.snh = 'https://www.tiktok.com/@maxxy_0t'
-global.sfb = 'https://www.facebook.com/kahfiofc'
-global.syt = 'https://youtube.com/channel/UC6GPl9xMWL61NAXQb3HBrRw'
+global.snh = 'https://www.tiktok.com/@swift_01'
+global.sfb = 'https://www.facebook.com/siestabotz'
+global.syt = 'https://youtube.com/channel/UCOAloj1gW4OVGMtVDnNaq5w'
 
 /*Nsfw*/
 global.optsnsfw = true
@@ -439,32 +439,32 @@ global.htjava = '⫹⫺'
 
 /*Watermark*/
 global.stickpack = '.'
-global.stickauth = `☂︎ 𝙔𝙩 𝙈𝙖𝙭𝙭𝙮 𝘽𝙤𝙩𝙯 乂 𝙆𝘼𝙃𝙁𝙄-𝙓𝘿\n⫹⫺ 𝐖𝐡𝐚𝐭𝐬𝐚𝐩𝐩\nwa.me/${global.nomorbot}`
+global.stickauth = `☂︎ Swift Kawai 乂 Siesta-Botz\n⫹⫺ 𝐖𝐡𝐚𝐭𝐬𝐚𝐩𝐩\nwa.me/${global.nomorbot}`
 global.packname = '☂︎ ᴄʀᴇᴀᴛᴇᴅ ʙʏ'
-global.author = '𝙔𝙩 𝙈𝙖𝙭𝙭𝙮 𝘽𝙤𝙩𝙯 乂 𝙆𝘼𝙃𝙁𝙄-𝙓𝘿'
+global.author = 'Swift Kawai 乂 𝙆𝘼𝙃𝙁𝙄-𝙓𝘿'
 global.multiplier = 10
 
 /*Pesan*/
 global.eror = '*ᴇʀᴏʀʀ!*'
 global.wait = '*ᴡᴀɪᴛ!*'
 global.render = '*ʀᴇɴᴅᴇʀ!*'
-global.webs = 'https://lynk.id/kahfi.xd'
+global.webs = 'https://linktr.ee/kannachanv1'
 global.logo = 'https://i.pinimg.com/564x/f7/d2/e4/f7d2e48fd59a8c01cd396bfc70b0a2d1.jpg'
-global.gcwangsaf = 'https://chat.whatsapp.com/I0prmYcZhKrCye0kiclzyt'
+global.gcwangsaf = 'https://chat.whatsapp.com/KbgGdT1cV3rD5JzJDZryis'
 
 /*Donasi*/
-global.saweria = 'https://saweria.co/MaxxyBotz'
-global.dana = '085380166282'
-global.pulsa = '085295374964'
+global.saweria = 'https://saweria.co/SiestaMd'
+global.dana = '08386366437'
+global.pulsa = '083112831554'
 global.trakteer = ''
 global.paypal = ''
 global.gopay = ''
-global.pdana = '085380166282'
+global.pdana = '083866366437'
 global.povo = ''
 global.pgopay = ''
-global.ppulsa = '085295374964'
-global.ppulsa2 = '085295374964'
-global.psaweria = 'https://saweria.com/MaxxyBotz'
+global.ppulsa = '088980870067'
+global.ppulsa2 = '083112831554'
+global.psaweria = 'https://saweria.com/SiestaMd'
 
 /*Emoji*/
 global.rpg = {
