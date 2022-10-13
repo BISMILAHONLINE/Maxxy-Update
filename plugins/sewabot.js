@@ -9,16 +9,16 @@ if (command == 'sewabot') {
 
 *• SEWA BOT & UP TO PREMIUM •*
         
-1. Grup / 30 Hari
-Rp. 15.000 Dana
-Rp. 15.000 Pulsa
-
-2. Premium / 30 Hari
-Rp. 10.000 Dana
+1. Grup / Permanent
+Rp. 5.000 QRIS ALLPAY
 Rp. 10.000 Pulsa
 
-3. Premium + Grup / 30 Hari
-Rp. 20.000 Dana
+2. Premium / Permanent
+Rp. 5.000 QRIS ALLPAY
+Rp. 10.000 Pulsa
+
+3. Premium + Grup / Permanent
+Rp. 10.000 QRIS ALLPAY
 Rp. 20.000 Pulsa
 
 wa.me/${nomorown}
